@@ -24,7 +24,7 @@ In the competitive and complex market of Singapore's resale flats, accurate pric
 The dataset comprises resale flat transactions recorded by the Singapore Housing and Development Board (HDB) from 1990 to the present. It can be accessed through [this link](https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view).
 
 ## Contact
-- Your Name - logeshwaran1478@gmail.com
+- LOGESHWARAN- logeshwaran1478@gmail.com
 - Linkedin: [Profile](https://www.linkedin.com/in/logeshwarandatapro/)
 
 
